@@ -11,6 +11,12 @@
 - Published the playable game with GitHub Pages: https://bellacara.github.io/risk-game/
 - Manually reviewed the standalone HTML, CSS, and game rules. Automated browser testing and JavaScript syntax validation could not run because this session has neither a browser connection nor a JavaScript runtime.
 
+## 2026-08-27 — Tactical update
+
+- Replaced one-card-at-a-time play with fast 3-card **Blitz** and 5-card **All In** choices.
+- Added a changing battlefield effect that awards a bonus to one card suit, making each round less predictable.
+- Added round and winning-streak counters, card-hand reveals, and clearer tactical feedback.
+
 ## Publishing checklist
 
 1. Initialize or connect this folder to a GitHub repository.
