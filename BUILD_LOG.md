@@ -17,6 +17,13 @@
 - Added a changing battlefield effect that awards a bonus to one card suit, making each round less predictable.
 - Added round and winning-streak counters, card-hand reveals, and clearer tactical feedback.
 
+## 2026-08-27 — Draw Four redesign
+
+- Replaced the Risk battle game with **Draw Four**, a central-deck game where the player draws first and the automated player follows.
+- Changed the win condition to collecting four cards of the same rank; Jokers count as wild cards.
+- Added three two-card Risk Draws and two selected-card swaps to add tactical choices.
+- Published the redesigned game at the original URL and at a new GitHub Pages URL: https://bellacara.github.io/risk-game/draw-four/
+
 ## Publishing checklist
 
 1. Initialize or connect this folder to a GitHub repository.
