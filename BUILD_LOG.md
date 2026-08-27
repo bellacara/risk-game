@@ -24,6 +24,13 @@
 - Added three two-card Risk Draws and two selected-card swaps to add tactical choices.
 - Published the redesigned game at the original URL and at a new GitHub Pages URL: https://bellacara.github.io/risk-game/draw-four/
 
+## 2026-08-27 — Four-card hand update
+
+- Limited both players to four cards after every completed turn.
+- Added a required draw-then-discard flow: after drawing, the player must select and discard one card before the automated player acts.
+- Hid all automated-player card faces while retaining the latest discarded card as public information.
+- Updated the published game at https://bellacara.github.io/risk-game/draw-four/
+
 ## Publishing checklist
 
 1. Initialize or connect this folder to a GitHub repository.
