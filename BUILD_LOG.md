@@ -7,7 +7,8 @@
 - Implemented simultaneous card flips, higher-card round outcomes, ties, card counts, win detection, and replay.
 - Applied the requested win condition: a player wins by reaching zero cards. Therefore, the round winner gives both revealed cards to the loser.
 - Added responsive visual design and keyboard-accessible game controls.
-- Confirmed this directory is not a Git repository, so no GitHub Pages URL exists yet to publish or update.
+- Connected the project to `https://github.com/bellacara/risk-game` and pushed the initial release to the `main` branch.
+- GitHub Pages has not yet been confirmed as enabled, so the public game URL is pending activation.
 - Manually reviewed the standalone HTML, CSS, and game rules. Automated browser testing and JavaScript syntax validation could not run because this session has neither a browser connection nor a JavaScript runtime.
 
 ## Publishing checklist
