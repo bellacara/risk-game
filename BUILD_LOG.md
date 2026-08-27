@@ -8,7 +8,7 @@
 - Applied the requested win condition: a player wins by reaching zero cards. Therefore, the round winner gives both revealed cards to the loser.
 - Added responsive visual design and keyboard-accessible game controls.
 - Connected the project to `https://github.com/bellacara/risk-game` and pushed the initial release to the `main` branch.
-- GitHub Pages has not yet been confirmed as enabled, so the public game URL is pending activation.
+- Published the playable game with GitHub Pages: https://bellacara.github.io/risk-game/
 - Manually reviewed the standalone HTML, CSS, and game rules. Automated browser testing and JavaScript syntax validation could not run because this session has neither a browser connection nor a JavaScript runtime.
 
 ## Publishing checklist
