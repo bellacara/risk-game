@@ -31,10 +31,12 @@
 - Hid all automated-player card faces while retaining the latest discarded card as public information.
 - Updated the published game at https://bellacara.github.io/risk-game/draw-four/
 
-## 2026-08-27 — Replay control update
+## 2026-08-27 — Unfamiliar User Test/Replay control update/revision
 
+- Unfamiliar user didn't understand where they were supposed to draw the card from. There was only one button to press which was "Play Again" so I updated the game to include a separate button.
 - Kept **Draw a Card** as the dedicated in-game action.
 - Added a separate **Play Again** button that appears only after a game has ended.
+
 
 ## Publishing checklist
 
